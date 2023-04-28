@@ -1,0 +1,17 @@
+.maindiv{
+    text-align: center;
+     margin:100px auto;
+     box-shadow:0px 0px 10px gray;
+      width:400px;
+      height:150px ;
+}
+button{
+    width:100px;
+    padding:7px;
+    border:none;
+    background-color:#1abc9c;
+    font-size:20px;
+    color:white;
+    font-weight:600;
+    border-radius:6px;
+}
